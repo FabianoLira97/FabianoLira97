@@ -78,19 +78,6 @@ Aqui no GitHub, pretendo publicar projetos relacionados a:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/FabianoLira97">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianoLira97&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoLira97&layout=compact&theme=default"/>
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiano%20Lira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianolira97)
-
-[![GitHub](https://img.shields.io/badge/GitHub-FabianoLira97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabianoLira97)
